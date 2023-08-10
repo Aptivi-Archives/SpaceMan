@@ -1,0 +1,152 @@
+{
+  "sitemap": {
+    "baseUrl": "https://aptivi.github.io/SpaceMan/"
+  },
+  "homepages": [],
+  "source_base_path": "/github/workspace/DocGen",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SpaceMan.Analysis.SpaceAnalysisResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpaceMan.Analysis.SpaceAnalysisResult.html",
+          "hash": "6Fr6qcrB+/wGICbGFc2NhwUDEQhAUVfRuZZenrwTV58="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SpaceMan.Analysis.SpaceAnalysisTools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpaceMan.Analysis.SpaceAnalysisTools.html",
+          "hash": "GNTJxbXvEwa++2SoyDH9l8w0t+w0wZmiq6HKQwWCmtk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SpaceMan.Analysis.SpaceConversionTools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpaceMan.Analysis.SpaceConversionTools.html",
+          "hash": "i4CFXKNiwQjji/LjvUfWAYW/8jzwxf0Zw9NrJwUVp8I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SpaceMan.Analysis.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpaceMan.Analysis.html",
+          "hash": "FHNnY4IRoi/joa1A16C72FbQJU7TNRXExMmJTIAl76k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "NjGN5MBEiMfYBjBRyT5xLnkA7IIIyUh1qhI6z6zHTcY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "pd39+jxCHmTEc/3PnDVAl5OWe+0ML3qZGfLlCr/sD5Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "XKV1uGINVygGHFj9wbq6cT5tP5fN5za+PIDj7d1VPBY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 1,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
