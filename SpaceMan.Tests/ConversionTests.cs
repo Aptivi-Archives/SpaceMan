@@ -544,7 +544,7 @@ namespace SpaceMan.Tests
         [Test]
         public void TestConvertSpacesMultipleDifferentSpacesExplicitToFile()
         {
-            //                  vvvvvv~~~vvvvvv~~~~~~~vvvvvv~~vvvvvv~~~vvvvvv~~~~ These are the non-breaking spaces
+            //                  vvvvvv~~~vvvvvv~~~~~~~vvvvvv~~vvvvvv~~~vvvvvv~~~~ These are bad spaces
             string text = "Hello\u00a0and\u200Bwelcome\u2008to\u200Bthe\u00a0world!";
             string expectedResult = "Hello and welcome to the world!";
             var analysisResult = SpaceAnalysisTools.AnalyzeSpaces(text);
