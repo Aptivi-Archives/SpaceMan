@@ -46,11 +46,14 @@ references:
   fullName: SpaceMan.Analysis.SpaceAnalysisTools
   nameWithType: SpaceAnalysisTools
 - uid: SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpaces(System.String)
-  name: AnalyzeSpaces(String)
+  name: AnalyzeSpaces(string)
   href: api/SpaceMan.Analysis.SpaceAnalysisTools.html#SpaceMan_Analysis_SpaceAnalysisTools_AnalyzeSpaces_System_String_
   commentId: M:SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpaces(System.String)
-  fullName: SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpaces(System.String)
-  nameWithType: SpaceAnalysisTools.AnalyzeSpaces(String)
+  name.vb: AnalyzeSpaces(String)
+  fullName: SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpaces(string)
+  fullName.vb: SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpaces(String)
+  nameWithType: SpaceAnalysisTools.AnalyzeSpaces(string)
+  nameWithType.vb: SpaceAnalysisTools.AnalyzeSpaces(String)
 - uid: SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpaces*
   name: AnalyzeSpaces
   href: api/SpaceMan.Analysis.SpaceAnalysisTools.html#SpaceMan_Analysis_SpaceAnalysisTools_AnalyzeSpaces_
@@ -58,18 +61,21 @@ references:
   isSpec: "True"
   fullName: SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpaces
   nameWithType: SpaceAnalysisTools.AnalyzeSpaces
-- uid: SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpacesFrom(Stream)
+- uid: SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpacesFrom(System.IO.Stream)
   name: AnalyzeSpacesFrom(Stream)
-  href: api/SpaceMan.Analysis.SpaceAnalysisTools.html#SpaceMan_Analysis_SpaceAnalysisTools_AnalyzeSpacesFrom_Stream_
-  commentId: M:SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpacesFrom(Stream)
-  fullName: SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpacesFrom(Stream)
+  href: api/SpaceMan.Analysis.SpaceAnalysisTools.html#SpaceMan_Analysis_SpaceAnalysisTools_AnalyzeSpacesFrom_System_IO_Stream_
+  commentId: M:SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpacesFrom(System.IO.Stream)
+  fullName: SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpacesFrom(System.IO.Stream)
   nameWithType: SpaceAnalysisTools.AnalyzeSpacesFrom(Stream)
 - uid: SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpacesFrom(System.String)
-  name: AnalyzeSpacesFrom(String)
+  name: AnalyzeSpacesFrom(string)
   href: api/SpaceMan.Analysis.SpaceAnalysisTools.html#SpaceMan_Analysis_SpaceAnalysisTools_AnalyzeSpacesFrom_System_String_
   commentId: M:SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpacesFrom(System.String)
-  fullName: SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpacesFrom(System.String)
-  nameWithType: SpaceAnalysisTools.AnalyzeSpacesFrom(String)
+  name.vb: AnalyzeSpacesFrom(String)
+  fullName: SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpacesFrom(string)
+  fullName.vb: SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpacesFrom(String)
+  nameWithType: SpaceAnalysisTools.AnalyzeSpacesFrom(string)
+  nameWithType.vb: SpaceAnalysisTools.AnalyzeSpacesFrom(String)
 - uid: SpaceMan.Analysis.SpaceAnalysisTools.AnalyzeSpacesFrom*
   name: AnalyzeSpacesFrom
   href: api/SpaceMan.Analysis.SpaceAnalysisTools.html#SpaceMan_Analysis_SpaceAnalysisTools_AnalyzeSpacesFrom_
@@ -96,18 +102,21 @@ references:
   isSpec: "True"
   fullName: SpaceMan.Analysis.SpaceConversionTools.ConvertSpaces
   nameWithType: SpaceConversionTools.ConvertSpaces
-- uid: SpaceMan.Analysis.SpaceConversionTools.ConvertSpacesTo(SpaceMan.Analysis.SpaceAnalysisResult,Stream)
+- uid: SpaceMan.Analysis.SpaceConversionTools.ConvertSpacesTo(SpaceMan.Analysis.SpaceAnalysisResult,System.IO.Stream)
   name: ConvertSpacesTo(SpaceAnalysisResult, Stream)
-  href: api/SpaceMan.Analysis.SpaceConversionTools.html#SpaceMan_Analysis_SpaceConversionTools_ConvertSpacesTo_SpaceMan_Analysis_SpaceAnalysisResult_Stream_
-  commentId: M:SpaceMan.Analysis.SpaceConversionTools.ConvertSpacesTo(SpaceMan.Analysis.SpaceAnalysisResult,Stream)
-  fullName: SpaceMan.Analysis.SpaceConversionTools.ConvertSpacesTo(SpaceMan.Analysis.SpaceAnalysisResult, Stream)
+  href: api/SpaceMan.Analysis.SpaceConversionTools.html#SpaceMan_Analysis_SpaceConversionTools_ConvertSpacesTo_SpaceMan_Analysis_SpaceAnalysisResult_System_IO_Stream_
+  commentId: M:SpaceMan.Analysis.SpaceConversionTools.ConvertSpacesTo(SpaceMan.Analysis.SpaceAnalysisResult,System.IO.Stream)
+  fullName: SpaceMan.Analysis.SpaceConversionTools.ConvertSpacesTo(SpaceMan.Analysis.SpaceAnalysisResult, System.IO.Stream)
   nameWithType: SpaceConversionTools.ConvertSpacesTo(SpaceAnalysisResult, Stream)
 - uid: SpaceMan.Analysis.SpaceConversionTools.ConvertSpacesTo(SpaceMan.Analysis.SpaceAnalysisResult,System.String)
-  name: ConvertSpacesTo(SpaceAnalysisResult, String)
+  name: ConvertSpacesTo(SpaceAnalysisResult, string)
   href: api/SpaceMan.Analysis.SpaceConversionTools.html#SpaceMan_Analysis_SpaceConversionTools_ConvertSpacesTo_SpaceMan_Analysis_SpaceAnalysisResult_System_String_
   commentId: M:SpaceMan.Analysis.SpaceConversionTools.ConvertSpacesTo(SpaceMan.Analysis.SpaceAnalysisResult,System.String)
-  fullName: SpaceMan.Analysis.SpaceConversionTools.ConvertSpacesTo(SpaceMan.Analysis.SpaceAnalysisResult, System.String)
-  nameWithType: SpaceConversionTools.ConvertSpacesTo(SpaceAnalysisResult, String)
+  name.vb: ConvertSpacesTo(SpaceAnalysisResult, String)
+  fullName: SpaceMan.Analysis.SpaceConversionTools.ConvertSpacesTo(SpaceMan.Analysis.SpaceAnalysisResult, string)
+  fullName.vb: SpaceMan.Analysis.SpaceConversionTools.ConvertSpacesTo(SpaceMan.Analysis.SpaceAnalysisResult, String)
+  nameWithType: SpaceConversionTools.ConvertSpacesTo(SpaceAnalysisResult, string)
+  nameWithType.vb: SpaceConversionTools.ConvertSpacesTo(SpaceAnalysisResult, String)
 - uid: SpaceMan.Analysis.SpaceConversionTools.ConvertSpacesTo*
   name: ConvertSpacesTo
   href: api/SpaceMan.Analysis.SpaceConversionTools.html#SpaceMan_Analysis_SpaceConversionTools_ConvertSpacesTo_
